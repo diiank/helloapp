@@ -1,4 +1,4 @@
-﻿Console.WriteLine("hello everyone");
+Console.WriteLine("hello everyone");
 GreetWhite();
 GreetBlack();
 
@@ -10,4 +10,4 @@ void GreetWhite()
 void GreetBlack()
 {
     Console.WriteLine("hello black");
-}git add Program.cs
+}
